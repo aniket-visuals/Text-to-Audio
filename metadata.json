@@ -1,0 +1,8 @@
+{
+  "name": "Text-to-Audio",
+  "description": "A modern, responsive text-to-speech application powered by Aniket Visuals, featuring multiple voices, adjustable speed, and audio history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
